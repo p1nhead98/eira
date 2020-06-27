@@ -1,0 +1,47 @@
+@import '../../node_modules/bootstrap/dist/css/bootstrap.min.css';
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+.banner{
+    background-color: rgb(68, 134, 255);
+   
+}
+.logobanner{
+    
+   height: 48px !important;
+}
+img{
+    max-height: 300px;
+    margin-left: 100px;
+
+    
+}
+.divbody{
+    margin: 25px 10px !important;
+}
+a{
+    font-family: 'Noto Sans';
+}
+p{
+    font-family: 'Noto Sans';
+    font-size: 21px;
+}
+h3{
+    font-size: 30px ;
+}
+div{
+    margin: 0;
+}
+.footer {
+    margin: 0ch;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: red;
+    color: white;
+    text-align: center;
+  }
+  footer {
+    text-align: center;
+    display: block;
+    background-color: DarkSalmon;
+    color: white;
+  }
